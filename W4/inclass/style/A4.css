@@ -1,0 +1,13 @@
+.grandchild {
+    padding: 4px;
+    background-color: rgba(190, 181, 194, 0.422);}
+
+.child {
+    padding: 8px;
+    background-color: rgb(222, 245, 212);}
+.parent {
+    padding: 8px;
+    background-color: rgb(171, 189, 189); margin: 16px;
+    max-width: 960px;
+    margin: auto;
+}
